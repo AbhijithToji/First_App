@@ -34,7 +34,7 @@ public class Splash extends AppCompatActivity {
             @Override
             public void run() {
 
-                Intent i = new Intent(getApplicationContext(),PhoneSMSEx.class);
+                Intent i = new Intent(getApplicationContext(),SqliteWithoutOpenHelper.class);
                 startActivity(i);
                 finish();
 

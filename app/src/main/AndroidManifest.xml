@@ -32,6 +32,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FirstApp">
         <activity
+            android:name=".SqliteViewActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SqliteWithoutOpenHelper"
+            android:exported="true" />
+        <activity
             android:name=".PhoneSMSEx"
             android:exported="true" />
         <activity
