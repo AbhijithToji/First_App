@@ -32,6 +32,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FirstApp">
         <activity
+            android:name=".Calculator"
+            android:exported="true" />
+        <activity
             android:name=".SqliteViewActivity"
             android:exported="true" />
         <activity
