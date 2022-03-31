@@ -34,7 +34,7 @@ public class Splash extends AppCompatActivity {
             @Override
             public void run() {
 
-                Intent i = new Intent(getApplicationContext(),Calculator.class);
+                Intent i = new Intent(getApplicationContext(),JsonFrom2.class);
                 startActivity(i);
                 finish();
 

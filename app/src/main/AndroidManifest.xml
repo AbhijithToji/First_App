@@ -32,6 +32,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FirstApp">
         <activity
+            android:name=".JsonFrom2"
+            android:exported="true" />
+        <activity
+            android:name=".ViewContact"
+            android:exported="true" />
+        <activity
+            android:name=".ContactBook"
+            android:exported="true" />
+        <activity
             android:name=".Calculator"
             android:exported="true" />
         <activity

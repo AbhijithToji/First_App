@@ -8,6 +8,8 @@
         <entry key="..\:/FirstApp/app/src/main/res/drawable/selector.xml" value="0.26614583333333336" />
         <entry key="..\:/FirstApp/app/src/main/res/layout/activity_alert_custom.xml" value="0.25" />
         <entry key="..\:/FirstApp/app/src/main/res/layout/activity_calculator.xml" value="0.25" />
+        <entry key="..\:/FirstApp/app/src/main/res/layout/activity_contact_book.xml" value="0.25" />
+        <entry key="..\:/FirstApp/app/src/main/res/layout/activity_json_from2.xml" value="0.1" />
         <entry key="..\:/FirstApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/FirstApp/app/src/main/res/layout/activity_main.xml" value="0.20516304347826086" />
         <entry key="..\:/FirstApp/app/src/main/res/layout/activity_media.xml" value="0.25" />
@@ -21,9 +23,11 @@
         <entry key="..\:/FirstApp/app/src/main/res/layout/activity_sqlite_without_open_helper.xml" value="0.25" />
         <entry key="..\:/FirstApp/app/src/main/res/layout/activity_vertical.xml" value="0.25" />
         <entry key="..\:/FirstApp/app/src/main/res/layout/activity_vertical_scroll.xml" value="0.23802083333333332" />
+        <entry key="..\:/FirstApp/app/src/main/res/layout/activity_view_contact.xml" value="0.25" />
         <entry key="..\:/FirstApp/app/src/main/res/layout/activity_webview.xml" value="0.23802083333333332" />
         <entry key="..\:/FirstApp/app/src/main/res/layout/alert_dialog_with_imageview.xml" value="0.2" />
         <entry key="..\:/FirstApp/app/src/main/res/layout/alert_dialog_with_ratingbar.xml" value="0.25" />
+        <entry key="..\:/FirstApp/app/src/main/res/layout/listjson2.xml" value="0.1" />
         <entry key="..\:/FirstApp/app/src/main/res/menu/menu.xml" value="0.25" />
         <entry key="..\:/FirstApp/app/src/main/res/menu/optionn.xml" value="0.25" />
       </map>
